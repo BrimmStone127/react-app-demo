@@ -31,3 +31,7 @@ function AllMeetupsPage() {
 }
 
 export default AllMeetupsPage;
+
+
+git config --global user.email "claybrimm@gmail.com"
+git config --global user.name "BrimmStone127"
